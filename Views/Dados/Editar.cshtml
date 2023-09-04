@@ -1,0 +1,33 @@
+﻿@model SalaoModel
+@{
+    ViewData["title"] = "Editar Dados do Salão";
+}
+
+<div class="container bg-dark p-5 rounded-5">
+
+    <div class="mb-5 text-center">
+        <h1 class="text-light">Editar Dados</h1>
+    </div>
+    <form method="post" asp-controller="Dados" asp-action="Editar">
+        <input type="hidden" asp-for="Id"/>
+        <div class="form-group">
+            <label for="NomeCliente" class="text-light">Endereço de email</label>
+            <input type="text" class="form-control" asp-for="NomeCliente" id="NomeCliente" aria-describedby="emailHelp" placeholder="Nome do Cliente?" />
+            <span class="text-danger" asp-validation-for="NomeCliente"></span>
+        </div>
+        <div class="form-group">
+            <label for="NomeFuncionario" class="text-light">Nome do Funcionário</label>
+            <input type="text" class="form-control" asp-for="NomeFuncionario" id="NomeFuncionario" aria-describedby="emailHelp" placeholder="Nome do Funcionário?" />
+            <span class="text-danger" asp-validation-for="NomeFuncionario"></span>
+        </div>
+        <div class="form-group">
+            <label for="Servico" class="text-light">Serviço</label>
+            <input type="text" class="form-control" asp-for="Servico" id="Servico" aria-describedby="emailHelp" placeholder="Servico Prestado?" />
+            <span class="text-danger" asp-validation-for="Servico"></span>
+        </div>
+        <div class="d-flex gap-5 mt-5">
+            <button type="submit" class="btn btn-success w-50">Enviar</button>
+            <a class="btn btn-primary w-50" asp-controller="Dados" asp-action="Index">Voltar</a>
+        </div>
+    </form>
+</div>
