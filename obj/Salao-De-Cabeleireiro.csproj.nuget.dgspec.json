@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\source\\repos\\Salao-De-Cabeleireiro\\Salao-De-Cabeleireiro.csproj": {}
+    "C:\\Users\\Aluno\\Downloads\\Trabalho_CS\\Salao-De-Cabeleireiro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\source\\repos\\Salao-De-Cabeleireiro\\Salao-De-Cabeleireiro.csproj": {
+    "C:\\Users\\Aluno\\Downloads\\Trabalho_CS\\Salao-De-Cabeleireiro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\source\\repos\\Salao-De-Cabeleireiro\\Salao-De-Cabeleireiro.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Downloads\\Trabalho_CS\\Salao-De-Cabeleireiro.csproj",
         "projectName": "Salao-De-Cabeleireiro",
-        "projectPath": "C:\\Users\\Aluno\\source\\repos\\Salao-De-Cabeleireiro\\Salao-De-Cabeleireiro.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Downloads\\Trabalho_CS\\Salao-De-Cabeleireiro.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\source\\repos\\Salao-De-Cabeleireiro\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Downloads\\Trabalho_CS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",

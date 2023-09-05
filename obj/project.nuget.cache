@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kmj4xT6JSwFElDAZkA568FEi4980rIBqZVK1er8DWcdbq11q2ff5HfQTaKn39THtU8GBJiwZ1RRb2V6VBBIAHQ==",
+  "dgSpecHash": "zv/Bklflox6fABw98Gp7B9/YX00ll9Ss5Bbd8aXfVPSnjA2BjbWnUFQcBVD6iYgldETpTYNm8J2erpOLFv3NjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\source\\repos\\Salao-De-Cabeleireiro\\Salao-De-Cabeleireiro.csproj",
+  "projectFilePath": "C:\\Users\\Aluno\\Downloads\\Trabalho_CS\\Salao-De-Cabeleireiro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

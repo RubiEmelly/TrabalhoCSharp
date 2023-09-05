@@ -12,8 +12,8 @@ using Salao_De_Cabeleireiro.Data;
 namespace Salao_De_Cabeleireiro.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230904122412_CriarBanco")]
-    partial class CriarBanco
+    [Migration("20230904165608_CreateDatabase")]
+    partial class CreateDatabase
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

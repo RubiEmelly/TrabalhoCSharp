@@ -26,7 +26,6 @@ namespace Salao_De_Cabeleireiro.Controllers
         }
 
         [HttpPost]
-
         public IActionResult Cadastrar(SalaoModel salao)
         {
             if (ModelState.IsValid)
@@ -40,12 +39,6 @@ namespace Salao_De_Cabeleireiro.Controllers
         }
 
         [HttpGet]
-        public IActionResult Editar() {
-         return View();
-        }
-
-        [HttpGet]
-
         public IActionResult Editar(int? id)
         {
             if (id == null || id == 0)
@@ -64,10 +57,9 @@ namespace Salao_De_Cabeleireiro.Controllers
         }
 
         [HttpPost]
-
         public IActionResult Editar(SalaoModel salao)
         {
-            if (!ModelState.IsValid)
+            if (ModelState.IsValid)
             {
                 _db.Salao.Update(salao);
                 _db.SaveChanges();
@@ -76,8 +68,8 @@ namespace Salao_De_Cabeleireiro.Controllers
             }
             return View(salao);
         }
-        [HttpGet]
 
+        [HttpGet]
         public IActionResult Excluir(int? id)
         {
             if (id == null || id == 0)
@@ -96,7 +88,6 @@ namespace Salao_De_Cabeleireiro.Controllers
         }
 
         [HttpPost]
-
         public IActionResult Excluir(SalaoModel salao)
         {
             if (salao == null)

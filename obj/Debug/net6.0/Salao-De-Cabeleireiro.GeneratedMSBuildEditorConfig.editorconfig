@@ -9,53 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Salao_De_Cabeleireiro
 build_property.RootNamespace = Salao_De_Cabeleireiro
-build_property.ProjectDir = C:\Users\Aluno\source\repos\Salao-De-Cabeleireiro\
+build_property.ProjectDir = C:\Users\Aluno\Downloads\Trabalho_CS\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Aluno\source\repos\Salao-De-Cabeleireiro
+build_property.MSBuildProjectDirectory = C:\Users\Aluno\Downloads\Trabalho_CS
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Aluno/source/repos/Salao-De-Cabeleireiro/Views/Dados/Cadastrar.cshtml]
+[C:/Users/Aluno/Downloads/Trabalho_CS/Views/Dados/Cadastrar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFkb3NcQ2FkYXN0cmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/source/repos/Salao-De-Cabeleireiro/Views/Dados/Editar.cshtml]
+[C:/Users/Aluno/Downloads/Trabalho_CS/Views/Dados/Editar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFkb3NcRWRpdGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/source/repos/Salao-De-Cabeleireiro/Views/Dados/Excluir.cshtml]
+[C:/Users/Aluno/Downloads/Trabalho_CS/Views/Dados/Excluir.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFkb3NcRXhjbHVpci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/source/repos/Salao-De-Cabeleireiro/Views/Dados/Index.cshtml]
+[C:/Users/Aluno/Downloads/Trabalho_CS/Views/Dados/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFkb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/source/repos/Salao-De-Cabeleireiro/Views/Home/Index.cshtml]
+[C:/Users/Aluno/Downloads/Trabalho_CS/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/source/repos/Salao-De-Cabeleireiro/Views/Home/Privacy.cshtml]
+[C:/Users/Aluno/Downloads/Trabalho_CS/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/source/repos/Salao-De-Cabeleireiro/Views/Shared/Error.cshtml]
+[C:/Users/Aluno/Downloads/Trabalho_CS/Views/Salao/Cadastrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYW9cQ2FkYXN0cmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Downloads/Trabalho_CS/Views/Salao/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYW9cRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Downloads/Trabalho_CS/Views/Salao/Excluir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYW9cRXhjbHVpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Downloads/Trabalho_CS/Views/Salao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYW9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Downloads/Trabalho_CS/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/source/repos/Salao-De-Cabeleireiro/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Aluno/Downloads/Trabalho_CS/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/source/repos/Salao-De-Cabeleireiro/Views/_ViewImports.cshtml]
+[C:/Users/Aluno/Downloads/Trabalho_CS/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/source/repos/Salao-De-Cabeleireiro/Views/_ViewStart.cshtml]
+[C:/Users/Aluno/Downloads/Trabalho_CS/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/source/repos/Salao-De-Cabeleireiro/Views/Shared/_Layout.cshtml]
+[C:/Users/Aluno/Downloads/Trabalho_CS/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ivom7rcj7f
